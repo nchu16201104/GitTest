@@ -4,3 +4,4 @@ new line
 new new line
 add fun1
 add fun2
+add fun3
