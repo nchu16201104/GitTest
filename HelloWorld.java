@@ -6,11 +6,6 @@ public class HelloWorld{
 		
 	}
 	
-	// 功能 2
-	public fun2(){
-		
-	}
-	
 	// 功能 3
 	public fun3(){
 		
